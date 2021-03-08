@@ -12,6 +12,7 @@
 
     <header>
         <h1><?php site_name(); ?></h1>
+        <h5>new data adding<h5>
         <nav class="menu">
             <?php nav_menu(); ?>
         </nav>
